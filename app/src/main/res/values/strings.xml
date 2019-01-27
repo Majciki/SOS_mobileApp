@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telenor SOS</string>
+    <string name="explanation">Tap your phone/tablet with NFC tag to get help for your router issue</string>
+    <string name="share_bar">share</string>
+</resources>
